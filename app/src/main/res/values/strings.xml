@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Przypomnienia</string>
+    <string name="new_reminder">Nowe przypomnienie</string>
+    <string name="exit">Wyjście</string>
+</resources>
