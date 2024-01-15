@@ -12,7 +12,6 @@ public class RemindersDbAdapter {
     public static final String COL_ID = "_id";
     public static final String COL_CONTENT = "content";
     public static final String COL_IMPORTANT = "important";
-
     public static final int INDEX_ID = 0;
     public static final int INDEX_CONTENT = INDEX_ID + 1;
     public static final int INDEX_IMPORTANT = INDEX_ID + 2;
