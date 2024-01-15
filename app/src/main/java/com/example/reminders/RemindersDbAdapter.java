@@ -15,7 +15,7 @@ public class RemindersDbAdapter {
     public static final int INDEX_ID = 0;
     public static final int INDEX_CONTENT = INDEX_ID + 1;
     public static final int INDEX_IMPORTANT = INDEX_ID + 2;
-
+//sasd
     private static final String TAG = "RemindersDbAdapter";
     private DatabaseHelper mDbHelper;
     private SQLiteDatabase mDb;
